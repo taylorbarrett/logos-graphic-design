@@ -14,9 +14,13 @@ Previous commissions:
 
 Aircraft Ferrying business logo created with Figma.
 
+
 <a href="https://github.com/taylorbarrett/logos-graphic-design"><img src="https://github.com/taylorbarrett/logos-graphic-design/raw/master/Screen%20Shot%202020-03-28%20at%208.40.41%20PM.png" width="100%" alt="Favicon"></a>
 
+© 2020 Taylor Lucas Barret.
+
 Favicon design for Boulder Pilot Website created with Figma.
+
 
 <a href="https://github.com/taylorbarrett/logos-graphic-design"><img src="https://github.com/taylorbarrett/logos-graphic-design/raw/master/Screen%20Shot%202020-03-29%20at%2012.18.35%20PM.png" width="100%" alt="Favicon"></a>
 
