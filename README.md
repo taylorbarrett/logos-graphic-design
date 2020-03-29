@@ -14,7 +14,7 @@ Design cost determined on a case-by-case basis. Discount design work available t
 
 [View on Boulder Pilot Website](https://www.boulderpilot.com/)
 
-Aircraft Ferrying business logo created with Figma.
+Aircraft Ferrying business logo created with Figma. Typography: original creation by Taylor Lucas Barrett. Aircraft silhouette: RV-6 homebuilt N134JB previously owned by Brooks G. Mershon. 
 
 
 ## Boulder Pilot Favicon
@@ -23,7 +23,7 @@ Aircraft Ferrying business logo created with Figma.
 
 © 2020 Taylor Lucas Barret.
 
-Favicon design for Boulder Pilot Website created with Figma.
+Favicon design for Boulder Pilot Website created with Figma. Aircraft silhouette: EXTRA 330 LT.
 
 ## Local EAA Chapter Logo
 
@@ -31,4 +31,4 @@ Favicon design for Boulder Pilot Website created with Figma.
 
 © 2020 Taylor Lucas Barrett with collaboration from Brooks G. Mershon and Rick Hall.
 
-Draft 4 of Experimental Aicraft Association local chapter logo, created in Rhino and Figma. 
+Draft 4 of Experimental Aicraft Association local chapter logo, created in Rhino and Figma. Aircraft outlines: Experimentals Steen Skybolt and Rutan Long-EZ. Mountain outline: Longs Peak in Colorado's Rocky Mountain National Park. 
